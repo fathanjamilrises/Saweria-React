@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'comfortaa';
+    src: url('./font/Comfortaa.ttf');
+  }
+  @font-face {
+    font-family: 'plex';
+    src: url('./font/IBMPlexMono.ttf');
+  }
+
+  
